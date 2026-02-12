@@ -1,8 +1,3 @@
-diff --git a/streamlit_app.py b/streamlit_app.py
-index fde12bee44f6c4cdd420705aa8ab36e30360fa10..f9a1f82172454bd228d9e3035b26feb4bbd97f02 100644
---- a/streamlit_app.py
-+++ b/streamlit_app.py
-@@ -1,6 +1,135 @@
 +from __future__ import annotations
 +
 +from datetime import datetime, timedelta
